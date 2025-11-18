@@ -24,7 +24,7 @@ The system uses content-based filtering, vectorization, and similarity scores to
 - NLTK
 - Requests API (TMDB poster & cast data)
 
-▶️ How to Run Locally
+## ▶️ How to Run Locally
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/repo-name.git
 cd repo-name
