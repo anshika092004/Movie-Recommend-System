@@ -25,10 +25,10 @@ The system uses content-based filtering, vectorization, and similarity scores to
 - Requests API (TMDB poster & cast data)
 
 ## 🚀 Live Demo
-Check out the live version of this app:
-https://movie-suggestion-app.streamlit.app
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black(https://movie-suggestion
+[![Open in Streamlit]
+(https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://movie-suggestion-app.streamlit.app)
+
 
 ## ▶️ How to Run Locally
 1️⃣ Clone the Repository
