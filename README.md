@@ -29,6 +29,11 @@ The system uses content-based filtering, vectorization, and similarity scores to
 [![Open in Streamlit]
 (https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://movie-suggestion-app.streamlit.app)
 
+## 📷 Screenshots
+Here are some screenshots of the Movie Recommendation System in action:
+
+<img width="1890" height="870" alt="image" src="https://github.com/user-attachments/assets/3e7e8b73-0d58-4a9b-bc95-69eecb3a3522" />
+
 
 ## ▶️ How to Run Locally
 1️⃣ Clone the Repository
