@@ -32,8 +32,8 @@ The system uses content-based filtering, vectorization, and similarity scores to
 ## 📷 Screenshots
 Here are some screenshots of the Movie Recommendation System in action:
 
+## Home Page: Explore Recommendations from a particular movie 
 <img width="1909" height="900" alt="image" src="https://github.com/user-attachments/assets/097061a5-d88b-4b08-b140-5544038b3b60" />
-
 <img width="1861" height="902" alt="image" src="https://github.com/user-attachments/assets/c099cf97-4e2e-45f4-b420-8cdfebead1b3" />
 
 ## Description Page: Explore essential movie details and information about the cast.
