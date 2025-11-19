@@ -24,6 +24,12 @@ The system uses content-based filtering, vectorization, and similarity scores to
 - NLTK
 - Requests API (TMDB poster & cast data)
 
+## 🚀 Live Demo
+Check out the live version of this app:
+https://movie-suggestion-app.streamlit.app
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black(https://movie-suggestion
+
 ## ▶️ How to Run Locally
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/repo-name.git
