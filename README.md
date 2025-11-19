@@ -32,7 +32,8 @@ The system uses content-based filtering, vectorization, and similarity scores to
 ## 📷 Screenshots
 Here are some screenshots of the Movie Recommendation System in action:
 
-<img width="1890" height="870" alt="image" src="https://github.com/user-attachments/assets/3e7e8b73-0d58-4a9b-bc95-69eecb3a3522" />
+<img width="1909" height="900" alt="image" src="https://github.com/user-attachments/assets/097061a5-d88b-4b08-b140-5544038b3b60" />
+
 
 
 ## ▶️ How to Run Locally
