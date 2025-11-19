@@ -40,6 +40,7 @@ Here are some screenshots of the Movie Recommendation System in action:
 <img width="1894" height="860" alt="image" src="https://github.com/user-attachments/assets/d247ade2-f695-42b4-ad20-b2f6b4f4afa0" />
 <img width="1910" height="792" alt="image" src="https://github.com/user-attachments/assets/5d045d6f-0b24-4eda-a318-2e51877f9b16" />
 
+## Check All Movies Page: Navigate between pages with ease using buttons or the slider.
 <img width="1886" height="897" alt="image" src="https://github.com/user-attachments/assets/f1ffa123-554b-4fa1-ae99-8d5044e900b9" />
 
 ## ▶️ How to Run Locally
