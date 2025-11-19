@@ -43,14 +43,15 @@ Here are some screenshots of the Movie Recommendation System in action:
 ## Check All Movies Page: Navigate between pages with ease using buttons or the slider.
 <img width="1886" height="897" alt="image" src="https://github.com/user-attachments/assets/f1ffa123-554b-4fa1-ae99-8d5044e900b9" />
 
-## ▶️ How to Run Locally
-1️⃣ Clone the Repository
-git clone https://github.com/your-username/repo-name.git
-cd repo-name
+## Installation Guide
+Follow these steps to set up and run the application:
 
-2️⃣ Install Dependencies
-pip install -r requirements.txt
-
-3️⃣ Run Streamlit App
-streamlit run main.py
-
+1. Clone the Repository:
+   - git clone https://github.com/AnupamMittal-21/Movie-Recommender-System.git
+2. Create a Virtual Environment: Make sure you have a virtual environment set up for your project.
+3. Install Dependencies: Install the required dependencies using the requirements.txt file:
+   - pip install -r requirements.txt
+4. Run the Application: To start the app, execute the following command in your terminal:
+   - streamlit run main.py
+Note: When running the application for the first time, it may take some time as it creates necessary files and initializes the environment.
+Discover the joy of finding your next favorite movie with our Movie Recommender System!
