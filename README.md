@@ -47,11 +47,11 @@ Here are some screenshots of the Movie Recommendation System in action:
 Follow these steps to set up and run the application:
 
 1. Clone the Repository:
-   - git clone https://github.com/AnupamMittal-21/Movie-Recommender-System.git
+   git clone https://github.com/AnupamMittal-21/Movie-Recommender-System.git
 2. Create a Virtual Environment: Make sure you have a virtual environment set up for your project.
 3. Install Dependencies: Install the required dependencies using the requirements.txt file:
-   - pip install -r requirements.txt
+   pip install -r requirements.txt
 4. Run the Application: To start the app, execute the following command in your terminal:
-   - streamlit run main.py
+   streamlit run main.py
 Note: When running the application for the first time, it may take some time as it creates necessary files and initializes the environment.
 Discover the joy of finding your next favorite movie with our Movie Recommender System!
