@@ -1,0 +1,10 @@
+streamlit
+streamlit-option-menu
+streamlit-extras
+pandas
+numpy
+scikit-learn
+requests
+nltk
+pillow
+jinja2
